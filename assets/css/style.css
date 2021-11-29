@@ -16,3 +16,14 @@ h1, h2 {
     font-weight: 800;
     color: #696969;    
 }
+
+/* Navigation menu styling */
+#menu {
+    font-size: 120%;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 40px;
+}
