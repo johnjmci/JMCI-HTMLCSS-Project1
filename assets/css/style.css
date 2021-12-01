@@ -29,7 +29,7 @@ h1, h2 {
 
 #menu {
     font-size: 120%;
-    padding: 10px;
+    padding: 10px;;
 }
 
 #menu, #logo {
@@ -70,25 +70,45 @@ h1, h2 {
     background-color: #d3bba6;
     height: 50px;
     width: 100%;
-}
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 20px;
 
+}
+.instagram-icon { 
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.twitter-icon { 
+    padding-left: 20px;
+    padding-right: 20px
+}
+.facebook-icon { 
+    padding-left: 20px;
+    padding-right: 20px
+}
 #newsletter-banner {
     height: 40px;
     width: 100%;
     background-color: #A49C9C;
     text-align: center;
+    padding-top: 20px;
 }
 #opening-text {
-    height: 300px;
+    height: 450px;
     width: 50%;
     background-color: #D3BBA6;
     float: left;
+    padding: 25px;
+    box-sizing: border-box;
+    
 }
 #opening-image {
     background-image: url(../images/rsz_photo_by_mike_petrucci_on_unsplash.jpg);
     background-size: cover;
     background-position: center;
-    height: 300px;
+    height: 450px;
     width: 50%;;
     float: right;
 }
@@ -97,6 +117,8 @@ h1, h2 {
     width: 25%;
     background-color: #88A691;
     float: left;
+    padding: 25px;
+    box-sizing: border-box;
 }
 #coffee-image {
     background-image: url(../images/Photo\ by\ Nathan\ Dumlao\ on\ Unsplash.jpg);
@@ -112,8 +134,8 @@ h1, h2 {
     width: 25%;
     background-color: #88A691;
     float: left;
-
-
+    padding: 25px;
+    box-sizing: border-box;
 }
 #food-image {
     background-image: url(../images/Photo\ by\ American\ Heritage\ Chocolate\ on\ Unsplash.jpg);
@@ -128,22 +150,25 @@ h1, h2 {
     background-image: url(../images/Photo\ by\ Marcus\ Loke\ on\ Unsplash.jpg);
     background-size: cover;
     background-position: center;
-    height: 300px;
+    height: 450px;
     width: 50%;
     float: left;
 }
 #events-text {
-    height: 300px;
+    height: 450px;
     width: 50%;
     background-color: #D3BBA6;
     float: right;
-
+    padding: 25px;
+    box-sizing: border-box;
 }
 #about-text {
     height: 300px;
     width: 50%;
     background-color: #88a691;
     float: left;
+    padding: 25px;
+    box-sizing: border-box;
 }
 #about-image {
     background-image: url(../images/imageedit_2_8801264016.jpg);
@@ -158,12 +183,15 @@ h1, h2 {
     width: 100%;
     background-color: #D3BBA6;
     float: left;
-
+    padding: 25px;
+    box-sizing: border-box;
 }
 #footer {
     height: 50px;
     width: 100%;
     background-color: #A49C9C;
     float: left;
-
+    padding: 25px;
+    box-sizing: border-box;
+    text-align: center;
 }
