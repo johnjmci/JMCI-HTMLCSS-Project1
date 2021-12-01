@@ -21,6 +21,7 @@ h1, h2 {
 
 #logo{
     background-color: #88a691;
+    
 }
 
 #logo img {
@@ -61,5 +62,6 @@ h1, h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url(../images/rsz_photo_by_igor_starkov_on_unsplash\ RESIZE\ 1280.jpg) no-repeat center center;
+    object-fit: scale-down;
+    background: url(../images/Photo\ by\ Igor\ Starkov\ on\ Unsplash.jpg) no-repeat center center;
 }
