@@ -53,15 +53,77 @@ h1, h2 {
 
 /* Hero image styling */
 
-#hero-outer {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
+#hero {
+ height: 600px;
+ width: 100%;
+ background-image: url(../images/Photo\ by\ Igor\ Starkov\ on\ Unsplash.jpg);
+ background-position: bottom;
+ background-size: cover;
+ overflow: hidden;
 }
 
-#hero-image {
-    height: 600px;
+/* Sections formatting and styling */
+#social-buttons {
+    background-color: #d3bba6;
+    height: 50px;
     width: 100%;
-    object-fit: scale-down;
-    background: url(../images/Photo\ by\ Igor\ Starkov\ on\ Unsplash.jpg) no-repeat center center;
+}
+
+#newsletter-banner {
+    height: 50px;
+    width: 100%;
+}
+#opening-text {
+    height: 300px;
+    width: 50%;
+    background-color: #D3BBA6;
+}
+#opening-image {
+    height: 300px;
+    width: 50%;
+}
+#coffee-text {
+    height: 300px;
+    width: 50%;
+    background-color: #88A691;
+}
+#coffee-image {
+    height: 300px;
+    width: 50%;
+}
+#food-text {
+    height: 300px;
+    width: 50%;
+    background-color: #88A691;
+}
+#food-image {
+    height: 300px;
+    width: 50%;
+}
+#events-image {
+    height: 300px;
+    width: 50%;
+}
+#events-text {
+    height: 300px;
+    width: 50%;
+    background-color: #D3BBA6;
+}
+#about-text {
+    height: 300px;
+    width: 50%;
+    background-color: #88A691;
+}
+#about-image {
+    height: 300px;
+    width: 50%;
+}
+#signup {
+    height: 300px;
+    width: 100%;
+    background-color: #D3BBA6;
+}
+#footer {
+    height: 50px;
+    width: 100%;
 }
