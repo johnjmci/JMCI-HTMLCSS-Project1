@@ -57,9 +57,11 @@ h1, h2 {
  height: 600px;
  width: 100%;
  background-image: url(../images/Photo\ by\ Igor\ Starkov\ on\ Unsplash.jpg);
- background-position: bottom;
+ background-position: center;
+ background-repeat: no-repeat;
+ position: relative;
  background-size: cover;
- overflow: hidden;
+ background-position: bottom;
 }
 
 /* Sections formatting and styling */
@@ -72,51 +74,74 @@ h1, h2 {
 #newsletter-banner {
     height: 50px;
     width: 100%;
+    background-color: #A49C9C;
 }
 #opening-text {
     height: 300px;
     width: 50%;
     background-color: #D3BBA6;
+    float: left;
 }
 #opening-image {
+    background-image: url(../images/rsz_photo_by_mike_petrucci_on_unsplash.jpg);
+    background-size: cover;
+    background-position: center;
     height: 300px;
-    width: 50%;
+    width: 50%;;
+    float: right;
 }
 #coffee-text {
     height: 300px;
-    width: 50%;
+    width: 25%;
     background-color: #88A691;
 }
 #coffee-image {
+    background-image: url(../images/Photo\ by\ Nathan\ Dumlao\ on\ Unsplash.jpg);
+    background-size: cover;
+    background-position: center;
     height: 300px;
-    width: 50%;
+    width: 25%;
 }
 #food-text {
     height: 300px;
-    width: 50%;
+    width: 25%;
     background-color: #88A691;
 }
 #food-image {
+    background-image: url(../images/Photo\ by\ American\ Heritage\ Chocolate\ on\ Unsplash.jpg);
+    background-size: cover;
+    background-position: center;
     height: 300px;
-    width: 50%;
+    width: 25%;
 }
 #events-image {
+    background-image: url(../images/Photo\ by\ Marcus\ Loke\ on\ Unsplash.jpg);
+    background-size: cover;
+    background-position: center;
     height: 300px;
     width: 50%;
+    float: left;
 }
 #events-text {
     height: 300px;
     width: 50%;
     background-color: #D3BBA6;
+    float: right;
 }
 #about-text {
     height: 300px;
     width: 50%;
-    background-color: #88A691;
+    background-color: #88a691;
+    float: left;
 }
 #about-image {
+    background-image: url(../images/Photo\ by\ Camila\ Cordeiro\ on\ Unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-position: bottom;
     height: 300px;
     width: 50%;
+    float: right;
 }
 #signup {
     height: 300px;
@@ -126,4 +151,5 @@ h1, h2 {
 #footer {
     height: 50px;
     width: 100%;
+    background-color: #A49C9C;
 }
