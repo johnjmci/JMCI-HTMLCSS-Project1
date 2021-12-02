@@ -153,6 +153,7 @@ h1, h2 {
     height: 450px;
     width: 50%;
     float: left;
+
 }
 #events-text {
     height: 450px;
@@ -171,7 +172,7 @@ h1, h2 {
     box-sizing: border-box;
 }
 #about-image {
-    background-image: url(../images/imageedit_2_8801264016.jpg);
+    background-image: url(../images/Photo\ by\ Camila\ Cordeiro\ on\ Unsplash\ RESIZED.jpg);
     background-size: cover;
     background-position: center;
     height: 300px;
