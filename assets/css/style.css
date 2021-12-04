@@ -54,7 +54,7 @@ h1, h2 {
 /* Hero image styling */
 
 #hero {
- height: 600px;
+ height: 500px;
  width: 100%;
  background-image: url(../images/Photo\ by\ Igor\ Starkov\ on\ Unsplash.jpg);
  background-position: center;
@@ -93,7 +93,7 @@ h1, h2 {
     padding-top: 20px;
 }
 #opening-text {
-    height: 450px;
+    height: 350px;
     width: 50%;
     background-color: #D3BBA6;
     float: left;
@@ -105,7 +105,7 @@ h1, h2 {
     background-image: url(../images/rsz_photo_by_mike_petrucci_on_unsplash.jpg);
     background-size: cover;
     background-position: center;
-    height: 450px;
+    height: 350px;
     width: 50%;;
     float: right;
 }
@@ -147,13 +147,13 @@ h1, h2 {
     background-image: url(../images/Photo\ by\ Marcus\ Loke\ on\ Unsplash.jpg);
     background-size: cover;
     background-position: center;
-    height: 450px;
+    height: 350px;
     width: 50%;
     float: left;
 
 }
 #events-text {
-    height: 450px;
+    height: 350px;
     width: 50%;
     background-color: #D3BBA6;
     float: right;
@@ -161,7 +161,7 @@ h1, h2 {
     box-sizing: border-box;
 }
 #about-text {
-    height: 300px;
+    height: 380px;
     width: 50%;
     background-color: #88a691;
     float: left;
@@ -172,7 +172,7 @@ h1, h2 {
     background-image: url(../images/Photo\ by\ Camila\ Cordeiro\ on\ Unsplash\ RESIZED.jpg);
     background-size: cover;
     background-position: center;
-    height: 300px;
+    height: 380px;
     width: 50%;
     float: right;
 }
