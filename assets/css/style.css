@@ -193,3 +193,85 @@ h1, h2 {
     box-sizing: border-box;
     text-align: center;
 }
+
+/* Media Queries */
+
+@media screen and (max-width: 1200px) {
+    #opening-text {
+        height: 350px;
+        width: 100%;
+        background-color: #D3BBA6;
+        margin: 0 auto;
+        text-align: center;
+                flex-direction: column;
+
+    }
+    #opening-image {
+        background-image: url(../images/rsz_photo_by_mike_petrucci_on_unsplash.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 350px;
+        width: 100%;
+        margin: 0 auto;
+    }    
+    #coffee-text {
+        height: 300px;
+        width: 50%;
+        background-color: #88A691;
+        background-position: center;
+        padding: 25px;
+        box-sizing: border-box;
+    }
+    #coffee-image {
+        background-image: url(../images/Photo\ by\ Nathan\ Dumlao\ on\ Unsplash.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 300px;
+        width: 50%;
+    
+    }
+    #food-text {
+        height: 300px;
+        width: 50%;
+        background-color: #88A691;
+        background-position: center;
+        padding: 25px;
+        box-sizing: border-box;
+    }
+    #food-image {
+        background-image: url(../images/Photo\ by\ American\ Heritage\ Chocolate\ on\ Unsplash.jpg);
+        background-size: cover;
+        background-position: center;
+        flex-direction: column;
+        height: 300px;
+        width: 50%;
+    }
+    #events-image {
+        background-image: url(../images/Photo\ by\ Marcus\ Loke\ on\ Unsplash.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 350px;
+        width: 100%;    
+    }
+    #events-text {
+        height: 350px;
+        width: 100%;
+        background-color: #D3BBA6;
+        padding: 25px;
+        box-sizing: border-box;
+    }
+    #about-image {
+        background-image: url(../images/Photo\ by\ Camila\ Cordeiro\ on\ Unsplash\ RESIZED.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 380px;
+        width: 100%;
+    }
+    #about-text {
+        height: 380px;
+        width: 100%;
+        background-color: #88a691;
+        padding: 25px;
+        box-sizing: border-box;
+    }
+}
