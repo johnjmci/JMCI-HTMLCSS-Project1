@@ -318,11 +318,13 @@ h1, h2 {
     }    
     #coffee-text {
         font-size: 80%;
+        height: 300px;
     }
     #coffee-image {
     }
     #food-text {
         font-size: 80%;
+        height: 300px;
     }
     #food-image {
     }
@@ -330,11 +332,13 @@ h1, h2 {
     }
     #events-text {
         font-size: 80%;
+        height: 300px;
     }
     #about-image {
     }
     #about-text {
         font-size: 80%;
+        height: 400px;
     }
     #signup{
         font-size: 80%;
