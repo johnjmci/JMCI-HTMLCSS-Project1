@@ -321,18 +321,20 @@ h1, h2 {
         height: 300px;
     }
     #coffee-image {
+        height: 300px;
     }
     #food-text {
         font-size: 80%;
         height: 300px;
     }
     #food-image {
+        height: 300px;
     }
     #events-image {
     }
     #events-text {
         font-size: 80%;
-        height: 300px;
+        height: 400px;
     }
     #about-image {
     }
