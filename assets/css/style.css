@@ -28,8 +28,9 @@ header {
     background-color: #88a691;
 }
 
-header img {
-    text-align: center;
+body header img {
+    padding-top: 20px;
+
 }
 
 #menu {
@@ -58,7 +59,7 @@ header img {
 #hero {
  height: 500px;
  width: 100%;
- background-image: url(../images/Photo\ by\ Igor\ Starkov\ on\ Unsplash.jpg);
+ background-image: url(../images/Photo_by_Igor_Starkov_Unsplash.jpg);
  background-position: center;
  background-repeat: no-repeat;
  position: relative;
@@ -125,7 +126,7 @@ header img {
     box-sizing: border-box;
 }
 #coffee-image {
-    background-image: url(../images/Photo\ by\ Nathan\ Dumlao\ on\ Unsplash.jpg);
+    background-image: url(../images/Photo_by_Nathan_Dumlao_Unsplash.jpg);
     background-size: cover;
     background-position: center;
     height: 300px;
@@ -142,7 +143,7 @@ header img {
     box-sizing: border-box;
 }
 #food-image {
-    background-image: url(../images/Photo\ by\ American\ Heritage\ Chocolate\ on\ Unsplash.jpg);
+    background-image: url(../images/Photo_by_American_Heritage_Chocolate_Unsplash.jpg);
     background-size: cover;
     background-position: center;
     height: 300px;
@@ -151,7 +152,7 @@ header img {
 
 }
 #events-image {
-    background-image: url(../images/Photo\ by\ Marcus\ Loke\ on\ Unsplash.jpg);
+    background-image: url(../images/Photo_by_Marcus_Loke_Unsplash.jpg);
     background-size: cover;
     background-position: center;
     height: 350px;
@@ -176,7 +177,7 @@ header img {
     box-sizing: border-box;
 }
 #about-image {
-    background-image: url(../images/Photo\ by\ Camila\ Cordeiro\ on\ Unsplash\ RESIZED.jpg);
+    background-image: url(../images/Photo_by_Camila_Cordeiro_Unsplash\ RESIZED.jpg);
     background-size: cover;
     background-position: center;
     height: 380px;
@@ -229,7 +230,7 @@ header img {
         box-sizing: border-box;
     }
     #coffee-image {
-        background-image: url(../images/Photo\ by\ Nathan\ Dumlao\ on\ Unsplash.jpg);
+        background-image: url(../images/Photo_by_Nathan_Dumlao_Unsplash.jpg);
         background-size: cover;
         background-position: center;
         height: 250px;
@@ -245,7 +246,7 @@ header img {
         box-sizing: border-box;
     }
     #food-image {
-        background-image: url(../images/Photo\ by\ American\ Heritage\ Chocolate\ on\ Unsplash.jpg);
+        background-image: url(../images/Photo_by_American_Heritage_Chocolate_Unsplash.jpg);
         background-size: cover;
         background-position: center;
         flex-direction: column;
@@ -253,7 +254,7 @@ header img {
         width: 50%;
     }
     #events-image {
-        background-image: url(../images/Photo\ by\ Marcus\ Loke\ on\ Unsplash.jpg);
+        background-image: url(../images/Photo_by_Marcus_Loke_Unsplash.jpg);
         background-size: cover;
         background-position: center;
         height: 250px;
@@ -267,10 +268,10 @@ header img {
         box-sizing: border-box;
     }
     #about-image {
-        background-image: url(../images/Photo\ by\ Camila\ Cordeiro\ on\ Unsplash\ RESIZED.jpg);
+        background-image: url(../images/Photo_by_Camila_Cordeiro_Unsplash\ RESIZED.jpg);
         background-size: cover;
         background-position: center;
-        height: 250px;
+        height: 300px;
         width: 100%;
     }
     #about-text {
@@ -293,7 +294,7 @@ header img {
     #hero {
         height: 300px;
         width: 100%;
-        background-image: url(../images/Photo\ by\ blocks\ on\ Unsplash.jpg);
+        background-image: url(../images/Photo_by\ _René_Porter_Unsplash.jpg);
         background-position: center;
         background-repeat: no-repeat;
         position: relative;
