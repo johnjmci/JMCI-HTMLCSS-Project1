@@ -46,11 +46,11 @@ header img {
 
 #menu a {
     text-decoration: none;
-    color: #ffffff;
+    color: #343434;
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #ffffff;
+    border-bottom: 1px solid #343434;
 }
 
 /* Hero image styling */
