@@ -302,31 +302,16 @@ header img {
         vertical-align: 10px;
 
        }
-       
-    #menu {
-        clear:left;
-        float: left;
-        margin-left: 20px;
-        margin-bottom: 30px;
-        line-height: 40px;
-        font-size: 80%;
-    }
 
     #review-banner {
         font-size: 80%;
     }
-
-    #logo {
-        background-color: #88a691;
-        padding-top: 20px;
-        align-items: center;
-    }
+   
     #opening-text {
         font-size: 80%;
         height: 300px;
     }
-    #opening-image {
-    }    
+  
     #coffee-text {
         font-size: 80%;
         height: 300px;
@@ -341,13 +326,9 @@ header img {
     #food-image {
         height: 300px;
     }
-    #events-image {
-    }
     #events-text {
         font-size: 80%;
         height: 400px;
-    }
-    #about-image {
     }
     #about-text {
         font-size: 80%;
