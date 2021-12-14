@@ -11,6 +11,11 @@ body {
     color: #696969;
 }
 
+nav {height: 60px;
+    text-align: center;
+    
+}
+
 h1, h2 {
     font-family: Chivo, Arial;
     font-weight: 800;
@@ -19,13 +24,12 @@ h1, h2 {
 
 /* Navigation menu styling */
 
-#logo{
+header {
     background-color: #88a691;
-    padding-top: 20px;
 }
 
-#logo img {
-    vertical-align: middle;
+header img {
+    text-align: center;
 }
 
 #menu {
@@ -33,9 +37,6 @@ h1, h2 {
     padding: 10px;;
 }
 
-#menu, #logo {
-    line-height: 75px;
-}
 
 #menu li {
     float: right;
@@ -70,11 +71,15 @@ h1, h2 {
 
 #social-banner {
     background-color: #d3bba6;
-    height: 50px;
 }
 
 .social-icons {
-    text-align: left;
+    text-align: center; 
+    vertical-align: center;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+
 }
 
 .social-icons > li {
@@ -281,7 +286,10 @@ h1, h2 {
 
 @media screen and (max-width: 950px) {
 
-
+    .logo img {
+        max-width: 100%;
+        max-height: auto;
+    }
     #hero {
         height: 300px;
         width: 100%;
