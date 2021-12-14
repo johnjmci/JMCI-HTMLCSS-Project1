@@ -8,7 +8,7 @@
 body {
     font-family: Overpass, Arial;
     font-weight: 300;
-    color: #696969;
+    color: #343434;
 }
 
 nav {height: 60px;
@@ -19,7 +19,7 @@ nav {height: 60px;
 h1, h2 {
     font-family: Chivo, Arial;
     font-weight: 800;
-    color: #696969;    
+    color: #343434;    
 }
 
 /* Navigation menu styling */
@@ -46,11 +46,11 @@ header img {
 
 #menu a {
     text-decoration: none;
-    color: #edeff0;
+    color: #ffffff;
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #edeff0;
+    border-bottom: 1px solid #ffffff;
 }
 
 /* Hero image styling */
