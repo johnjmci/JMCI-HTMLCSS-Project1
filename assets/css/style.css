@@ -7,7 +7,6 @@
 }
 body {
     font-family: Overpass, Arial;
-    font-weight: 300;
     color: #343434;
 }
 
@@ -23,9 +22,13 @@ nav {text-align: center;
     top: 0;
 }
 
-h1, h2 {
+h1 {
     font-family: Chivo, Arial;
-    font-weight: 800;
+    color: #343434;    
+}
+
+h2 {
+    font-family: Chivo, Arial;
     color: #343434;    
 }
 
