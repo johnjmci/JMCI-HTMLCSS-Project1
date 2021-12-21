@@ -101,8 +101,6 @@ body header img {
     padding-top: 20px;
 }
 #opening-text {
-    height: 350px;
-    width: 50%;
     background-color: #D3BBA6;
     float: left;
     padding: 25px;
@@ -113,12 +111,15 @@ body header img {
     background-image: url(../images/rsz_photo_by_mike_petrucci_on_unsplash.jpg);
     background-size: cover;
     background-position: center;
-    height: 350px;
-    width: 50%;;
     float: right;
 }
-#coffee-text {
+
+.standard-size {
     height: 300px;
+    width: 50%;
+}
+
+#coffee-text {
     width: 25%;
     background-color: #88A691;
     float: left;
@@ -129,13 +130,11 @@ body header img {
     background-image: url(../images/Photo_by_Nathan_Dumlao_Unsplash.jpg);
     background-size: cover;
     background-position: center;
-    height: 300px;
     width: 25%;
     float: left;
 
 }
 #food-text {
-    height: 300px;
     width: 25%;
     background-color: #88A691;
     float: left;
@@ -146,7 +145,6 @@ body header img {
     background-image: url(../images/Photo_by_American_Heritage_Chocolate_Unsplash.jpg);
     background-size: cover;
     background-position: center;
-    height: 300px;
     width: 25%;
     float: left;
 
