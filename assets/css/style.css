@@ -198,8 +198,8 @@ header {
     width: 50%;
     float: right;
 }
-#signup {
-    height: 300px;
+#suppliers {
+    block-size: fit-content;
     width: 100%;
     background-color: #D3BBA6;
     float: left;
@@ -360,7 +360,7 @@ header {
         padding: 25px;
         box-sizing: border-box;
     }
-    #signup{
+    #suppliers {
         font-size: 80%;
         padding: 25px;
         box-sizing: border-box;
