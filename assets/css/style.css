@@ -10,12 +10,12 @@ body {
     font-weight: 300;
     color: #343434;
 }
-
-nav {height: 60px;
-    text-align: center;
-    
+a {text-decoration: none;
+    color: inherit;
 }
-
+nav {height: 60px;
+    text-align: center;    
+}
 h1, h2 {
     font-family: Chivo, Arial;
     font-weight: 800;
@@ -209,7 +209,6 @@ body header img {
         background-color: #D3BBA6;
         margin: 0 auto;
         text-align: center;
-
     }
     #opening-image {
         background-image: url(../images/rsz_photo_by_mike_petrucci_on_unsplash.jpg);
