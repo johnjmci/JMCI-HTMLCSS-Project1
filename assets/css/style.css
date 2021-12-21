@@ -15,7 +15,10 @@ a {text-decoration: none;
     color: inherit;
 }
 nav {height: 60px;
-    text-align: center;    
+    text-align: center;  
+    overflow: hidden;
+    position: fixed;
+    width: 100%;  
 }
 h1, h2 {
     font-family: Chivo, Arial;
