@@ -14,27 +14,34 @@ body {
 a {text-decoration: none;
     color: inherit;
 }
-nav {height: 60px;
-    text-align: center;  
+
+nav {text-align: center;  
     overflow: hidden;
     position: fixed;
+    background-color: #A49C9C;    
     width: 100%;  
+    top: 0;
 }
+
 h1, h2 {
     font-family: Chivo, Arial;
     font-weight: 800;
     color: #343434;    
 }
 
+#logo img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    
+}
+
 /* Navigation menu styling */
 
 header {
     background-color: #88a691;
-}
-
-body header img {
-    padding-top: 20px;
-
+    padding-top: 50px;
 }
 
 #menu {
@@ -66,7 +73,6 @@ body header img {
  background-image: url(../images/Photo_by_Igor_Starkov_Unsplash.jpg);
  background-position: center;
  background-repeat: no-repeat;
- position: relative;
  background-size: cover;
  background-position: bottom;
  vertical-align: 10px;
@@ -97,7 +103,7 @@ body header img {
     color: #EFEFF0;
 }
 
-#review-banner {
+#banner {
     height: 40px;
     width: 100%;
     background-color: #A49C9C;
@@ -198,13 +204,13 @@ body header img {
     box-sizing: border-box;
 }
 #footer {
-    height: 50px;
     width: 100%;
-    background-color: #A49C9C;
     float: left;
     padding: 25px;
     box-sizing: border-box;
     text-align: center;
+    background-color: #A49C9C;
+
 }
 
 /* Media Queries */
