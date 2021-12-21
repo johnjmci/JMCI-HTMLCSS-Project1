@@ -10,6 +10,7 @@ body {
     font-weight: 300;
     color: #343434;
 }
+
 a {text-decoration: none;
     color: inherit;
 }
@@ -100,6 +101,14 @@ body header img {
     text-align: center;
     padding-top: 20px;
 }
+
+.standard-size {
+    height: 300px;
+    width: 50%;
+    padding: 25px 50px 75px;
+    box-sizing: border-box;
+}
+    
 #opening-text {
     background-color: #D3BBA6;
     float: left;
@@ -112,11 +121,6 @@ body header img {
     background-size: cover;
     background-position: center;
     float: right;
-}
-
-.standard-size {
-    height: 300px;
-    width: 50%;
 }
 
 #coffee-text {
@@ -163,7 +167,7 @@ body header img {
     width: 50%;
     background-color: #D3BBA6;
     float: right;
-    padding: 25px;
+    padding: 25px 50px 75px;
     box-sizing: border-box;
 }
 #about-text {
@@ -171,7 +175,7 @@ body header img {
     width: 50%;
     background-color: #88a691;
     float: left;
-    padding: 25px;
+    padding: 25px 50px 75px;
     box-sizing: border-box;
 }
 #about-image {
@@ -187,7 +191,7 @@ body header img {
     width: 100%;
     background-color: #D3BBA6;
     float: left;
-    padding: 25px;
+    padding: 25px 50px 75px;
     box-sizing: border-box;
 }
 #footer {
@@ -223,7 +227,7 @@ body header img {
         width: 50%;
         background-color: #88A691;
         background-position: center;
-        padding: 25px;
+        padding: 25px 50px 75px;
         box-sizing: border-box;
     }
     #coffee-image {
@@ -239,7 +243,7 @@ body header img {
         width: 50%;
         background-color: #88A691;
         background-position: center;
-        padding: 25px;
+        padding: 25px 50px 75px;
         box-sizing: border-box;
     }
     #food-image {
@@ -261,7 +265,7 @@ body header img {
         height: 375px;
         width: 100%;
         background-color: #D3BBA6;
-        padding: 25px;
+        padding: 25px 50px 75px;
         box-sizing: border-box;
     }
     #about-image {
@@ -275,7 +279,7 @@ body header img {
         height: 325px;
         width: 100%;
         background-color: #88a691;
-        padding: 25px;
+        padding: 25px 50px 75px;
         box-sizing: border-box;
     }
 }
@@ -302,17 +306,23 @@ body header img {
        }
 
     #review-banner {
-        font-size: 80%;
+        font-size: 70%;
+        padding: 10px;
+        box-sizing: border-box;
     }
    
     #opening-text {
         font-size: 80%;
         height: 300px;
+        padding: 25px;
+        box-sizing: border-box;
     }
   
     #coffee-text {
         font-size: 80%;
         height: 300px;
+        padding: 25px;
+        box-sizing: border-box;
     }
     #coffee-image {
         height: 300px;
@@ -320,6 +330,8 @@ body header img {
     #food-text {
         font-size: 80%;
         height: 300px;
+        padding: 25px;
+        box-sizing: border-box;
     }
     #food-image {
         height: 300px;
@@ -327,13 +339,19 @@ body header img {
     #events-text {
         font-size: 80%;
         height: 400px;
+        padding: 25px;
+        box-sizing: border-box;
     }
     #about-text {
         font-size: 80%;
         height: 400px;
+        padding: 25px;
+        box-sizing: border-box;
     }
     #signup{
         font-size: 80%;
+        padding: 25px;
+        box-sizing: border-box;
     }
     #footer {
         font-size: 80%;
