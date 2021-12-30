@@ -1,135 +1,141 @@
-# CGBG's / Coffee Guy Bakery Girl's Website 
-
-[View the live project here](https://johnjmci.github.io/johnjmci-HTMLCSS-Project1/)
-
-## Background
-CGBG’s is a website created to promote and share information about a coffee shop and cafe located in Bristol, UK. CGBG’s is run by a couple, Ethan and Charlotte, and combines their passions and skills for good coffee and delicious baked goods. 
-
-This is the first website created for the business, they have previously relied on social media as their digital communications channels. The site serves as an opportunity to share key practical information to prospective and returning visitors, as well as promoting the values and ethos which drive the business. The site will provide the opportunity for new customers and visitors to the city to discover the business, and for returning or regular customers to reference details such as latest opening hours and events listings.
+# CGBG's / Coffee Guy Bakery Girl's Website
  
+[View the live project here](https://johnjmci.github.io/johnjmci-HTMLCSS-Project1/)
+ 
+## Background
+CGBG’s is a website created to promote and share information about a coffee shop and cafe located in Bristol, UK. CGBG’s is run by a couple, Ethan and Charlotte, and combines their passions and skills for good coffee and delicious baked goods.
+ 
+This is the first website created for the business, they have previously relied on social media as their digital communications channels. The site serves as an opportunity to share key practical information to prospective and returning visitors, as well as promoting the values and ethos which drive the business. The site will provide the opportunity for new customers and visitors to the city to discover the business, and for returning or regular customers to reference details such as latest opening hours and events listings.
 ## Features & Format
-
-CGBG’s follows a one-page format split into sections. This format has been selected as the site itself is relatively simple in terms of the amount and format of information it contains. This format is especially fitting as this is the first iteration of a website profiling and promoting the CGBG’s brand. 
-
+ 
+CGBG’s follows a one-page format split into sections. This format has been selected as the site itself is relatively simple in terms of the amount and format of information it contains. This format is especially fitting as this is the first iteration of a website profiling and promoting the CGBG’s brand.
+ 
 The one-page format allows the designer to take the user on a defined journey by determining the ordering of content and information, while the use of a fixed nav bar retains the freedom and control for visitors to jump to where they wish to be should they arrive with a predetermined destination or objective.
-As a brand driven by passion and creativity, it is desirable to showcase the visitor experience and products through the use of simple but striking photography. The one-page format allows for imagery to punctuate content, also acting as section divides when the site reconfigures for smaller screen sizes. 
-
+As a brand driven by passion and creativity, it is desirable to showcase the visitor experience and products through the use of simple but striking photography. The one-page format allows for imagery to punctuate content, also acting as section divides when the site reconfigures for smaller screen sizes.
+ 
 ## Branding
-As a relatively new company, CGBG’s do not have an established visual identity beyond their logo and preference on imagery style. Therefore principles were defined around colours and typography to allow the site to convey a look and feel that is complementary to the brand, and which can be incorporated into the brands developing brand identity toolkit. 
-
-Fonts - Overpass and Chivo, selected via [fontpair](www.fontpair.com) / Arial as fallback 
-
-Font colour - #343434, informed by review of colour performance of options using [WAVE](https://wave.webaim.org/) web accessibility tool
-
-Brand colours - 
+As a relatively new company, CGBG’s do not have an established visual identity beyond their logo and preference on imagery style. Therefore principles were defined around colours and typography to allow the site to convey a look and feel that is complementary to the brand, and which can be incorporated into the brands developing brand identity toolkit.
+ 
+<b>Fonts</b> - Overpass and Chivo, selected via [fontpair](www.fontpair.com) / Arial as fallback
+ 
+<b>Font colour</b> - #343434, informed by review of colour performance of options using [WAVE](https://wave.webaim.org/) web accessibility tool
+ 
+/b>Brand colours</b> -
 Judge Gray  #523F31
 Vanilla  #D3BBA6
 Envy  #88A691
 Dusty Gray  #A49C9C
-
-
+ 
+ 
 ## Design Approach and User Experience
-
+ 
 The approach to the design of the site has been informed by reference to the five planes of user experience design.
-Strategy - 
-a) For business owners - create a site that can act as an easy to manage space to share information about their business 
-b) For customers - act as a one-stop location to quickly and easily collect information about the business and its offerings.  
-Scope - The site is to be relatively simple. Users should be able to glance at the site and find the information that they are looking for, or find it in less than three moves/actions from arrival on the site. 
-Structure - Core reference information should be at the top of the site, to include address and opening times. Less frequently referenced information will form subsequent sections of the site and live deeper in the site’s structure. 
-Skeleton - The site’s design was drafted using Figma, producing useful visualisations for discussion with the client to review and tweak into a final design ahead of build. 
-CGBG’s Figma Mockups - PDF File 
-Surface - This has been informed by the work around the brand identity, creating rules and elements necessary to build a visually appealing site which complements the brand identity. 
- 
- 
- 
+<b>1. Strategy</b> -
+<br>
+a) For business owners - create a site that can act as an easy to manage space to share information about their business
+<br>
+b) For customers - act as a one-stop location to quickly and easily collect information about the business and its offerings. 
+<br>
+<b>2. Scope</b> - The site is to be relatively simple. Users should be able to glance at the site and find the information that they are looking for, or find it in less than three moves/actions from arrival on the site.
+<br>
+<b>3. Structure</b> - Core reference information should be at the top of the site, to include address and opening times. Less frequently referenced information will form subsequent sections of the site and live deeper in the site’s structure.
+<br>
+<b>4. Skeleton</b> - The site’s design was drafted using Figma, producing useful visualisations for discussion with the client to review and tweak into a final design ahead of build.
+<br>
+<b>5. Surface</b> - This has been informed by the work around the brand identity, creating rules and elements necessary to build a visually appealing site which complements the brand identity.
+<br>
+CGBG’s Figma Mockup
+<img src="/workspace/johnjmci-HTMLCSS-Project1/assets/images/CGBGS_WIREFRAME_FIGMA.jpg">
 ## Completed Features
-
-Descriptions here highlight value to first-time, returning and frequent visitors to the site. 
-
-Navigation Bar - The navigation bar takes prime position at the top of the site, sitting on the right-hand side. The nav bar has been coded to be fixed, so that it remains in position as the user moves down through the site. It contains links to allow the user to easily jump to different sections of the site with ease, minimising scrolling and effort on the part of the user. 
-
-Social Links - The brand's social channels are well established and usually updated daily. The inclusion of linked social buttons at the head of the website seeks to drive traffic to these channels and grow their following. It also allows site users to access the most recent posts and updates from CGBG’s. 
-
-Hero Image - This image is included to give users an immediate sense of the CGBG’s space. Being quite a large image, it works best on desktop and laptop,it has been replaced by an image with more fitting dimensions for mobile. 
+ 
+Descriptions here highlight value to first-time, returning and frequent visitors to the site.
+ 
+Navigation Bar - The navigation bar takes prime position at the top of the site, sitting on the right-hand side. The nav bar has been coded to be fixed, so that it remains in position as the user moves down through the site. It contains links to allow the user to easily jump to different sections of the site with ease, minimising scrolling and effort on the part of the user.
+ 
+Social Links - The brand's social channels are well established and usually updated daily. The inclusion of linked social buttons at the head of the website seeks to drive traffic to these channels and grow their following. It also allows site users to access the most recent posts and updates from CGBG’s.
+ 
+Hero Image - This image is included to give users an immediate sense of the CGBG’s space. Being quite a large image, it works best on desktop and laptop,it has been replaced by an image with more fitting dimensions for mobile.
 <img src="/workspace/johnjmci-HTMLCSS-Project1/assets/images/Hero_Image_Nav_R1.png">
-
-Review Quote - This section gives an immediate sense of a third-party take on CGBG’s. We know that customers will be encouraged by positive reviews, and this section allows us to showcase a glowing review. The review quote section can be updated with other quotes and comments as they are published. The section can also be utilised should a special notice need to be published on the site for a temporary period eg.unexpected closure or a request to review amended or temporary opening hours. 
+ 
+Review Quote - This section gives an immediate sense of a third-party take on CGBG’s. We know that customers will be encouraged by positive reviews, and this section allows us to showcase a glowing review. The review quote section can be updated with other quotes and comments as they are published. The section can also be utilised should a special notice need to be published on the site for a temporary period eg.unexpected closure or a request to review amended or temporary opening hours.
 <img src="/workspace/johnjmci-HTMLCSS-Project1/assets/images/Banner_R8.png##">
-
-Opening Hours - This section contains the most fundamental information that a client needs to know about the business, where to find it, when it is open and how to make contact. It is therefore given prominence as the first section. Icons have been used to assist the user in being able to find information at a glance. 
+ 
+Opening Hours - This section contains the most fundamental information that a client needs to know about the business, where to find it, when it is open and how to make contact. It is therefore given prominence as the first section. Icons have been used to assist the user in being able to find information at a glance.
 <img src="/workspace/johnjmci-HTMLCSS-Project1/assets/images/Opening_Hours_R2.png">
-
-Coffee & Food - This section profiles the products which the company offers. A brief introduction to the ethos behind production is accompanied by a striking image or items available in store. 
+ 
+Coffee & Food - This section profiles the products which the company offers. A brief introduction to the ethos behind production is accompanied by a striking image or items available in store.
 <img src="/workspace/johnjmci-HTMLCSS-Project1/assets/images/Food_Drink_R5.png">
-
-Events  - CGBG’s main offering aside from coffee and baked items is as a venue. The owners have established a varied programme of events taking place each week. This section includes information on upcoming events taking place this month and next, with notes on any fees to attend or take part that visitors need to be aware of. 
+ 
+Events  - CGBG’s main offering aside from coffee and baked items is as a venue. The owners have established a varied programme of events taking place each week. This section includes information on upcoming events taking place this month and next, with notes on any fees to attend or take part that visitors need to be aware of.
 <img src="/workspace/johnjmci-HTMLCSS-Project1/assets/images/Events_R3.png">
-
+ 
 About Us - The owners of CGBG’s, Charlotte and Ethan, are a key element to the brand identity. This section is used to profile them, their backgrounds and skills, and also to put faces to their names.
 <img src="/workspace/johnjmci-HTMLCSS-Project1/assets/images/AboutUs_R4.png">
-
-Suppliers & Partners - The owners believe that their focus on great produce is only possible due to the work and expertise of the company’s suppliers. They have therefore requested that we include a profile of some of their suppliers. The embedding of videos here means that visitors to the site are not taken off the site to consume content on another platform, they remain within the CGBG’s site and have the option to continue their journey after consuming this media. 
+ 
+Suppliers & Partners - The owners believe that their focus on great produce is only possible due to the work and expertise of the company’s suppliers. They have therefore requested that we include a profile of some of their suppliers. The embedding of videos here means that visitors to the site are not taken off the site to consume content on another platform, they remain within the CGBG’s site and have the option to continue their journey after consuming this media.
 <img src="/workspace/johnjmci-HTMLCSS-Project1/assets/images/Suppliers_R6.png">
-
-Footer - The footer has been utilised to share information on the ownership of the site. It has also been used to share again and reiterate the key CTA for the business of driving traffic to and building the audience of their social media channels. 
+ 
+Footer - The footer has been utilised to share information on the ownership of the site. It has also been used to share again and reiterate the key CTA for the business of driving traffic to and building the audience of their social media channels.
 <img src="/workspace/johnjmci-HTMLCSS-Project1/assets/images/Footer_R7.png">
-
+ 
 ## Future Build and Features
 At launch, the site created meets all of the criteria requested by the business owners. There are some features which are to be revisited in the future:
-
+ 
 Newsletter sign-up form - In the future, when the team at CGBG’s have capacity to administer it and the business has been running for more than one year, it is has been suggested that the site could add value by hosting a sign-up form for a monthly email newsletter. At that time, developers should review the one-page format of the site to ensure it is still fit for purpose and able to comfortably contain additional content.
-
-Embed social feeds - Another feature for future consideration is the embedding of one of CGBG’s social media channel feeds eg. Twitter. 
-
+ 
+Embed social feeds - Another feature for future consideration is the embedding of one of CGBG’s social media channel feeds eg. Twitter.
+ 
 ## Testing
-Code Validation: 
+Code Validation:
 HTML - No errors were returned when passing through the official [W3C validator](https://johnjmci.github.io/johnjmci-HTMLCSS-Project1/)
 <br>
 CSS - No errors were found when passing through the official [W3C Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjohnjmci.github.io%2Fjohnjmci-HTMLCSS-Project1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-
-Accessibility - Review completed via [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)  
-As a result of this, 33 contrast errors were found and corrected by amending the site’s font colour. Redundant link alert also updated. 
-
-Mobile Optimisation - The site has been optimised to display correctly on desktop, tablet and mobile screen sizes. 
-The key amendment to the design was the placing of blocks of content (text and images) to stack vertically when viewed on a smartphone. 
-
-User testing -  As well as displaying the website on desktop, tablet and mobile screens, a third-party was requested to access and use the site. 
+ 
+Accessibility - Review completed via [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) 
+As a result of this, 33 contrast errors were found and corrected by amending the site’s font colour. Redundant link alert also updated.
+ 
+Mobile Optimisation - The site has been optimised to display correctly on desktop, tablet and mobile screen sizes.
+The key amendment to the design was the placing of blocks of content (text and images) to stack vertically when viewed on a smartphone.
+ 
+User testing -  As well as displaying the website on desktop, tablet and mobile screens, a third-party was requested to access and use the site.
 Amendments made as a result of testing and user feedback:
-- YouTube videos were not displaying correctly on mobile, creating a wide hap tp the right. 
-- Logo appearing in the header was not clear in desktop, image file replaced with larger image to rectify this. 
-- Logo displaying too large on mobile screens and creating a large white space beneath it on the ride side. 
-- Padding was added to text content sections to make the viewing experience more comfortable. 
-- Navigation bar overlapping logo on mobile devices. 
-- Navigation bar text was too large and not in proportion on mobile devices. 
-
+- YouTube videos were not displaying correctly on mobile, creating a wide hap tp the right.
+- Logo appearing in the header was not clear in desktop, image file replaced with larger image to rectify this.
+- Logo displaying too large on mobile screens and creating a large white space beneath it on the ride side.
+- Padding was added to text content sections to make the viewing experience more comfortable.
+- Navigation bar overlapping logo on mobile devices.
+- Navigation bar text was too large and not in proportion on mobile devices.
+ 
 ## Unfixed Bugs
-
+ 
 All bugs discovered have been fixed ahead of deployment.
-
+ 
 ## Deployment
-The site was deployed to GitHub pages and the live link can be accessed here - 
-https://johnjmci.github.io/johnjmci-HTMLCSS-Project1/ 
+The site was deployed to GitHub pages and the live link can be accessed here -
+https://johnjmci.github.io/johnjmci-HTMLCSS-Project1/
 <br>
-The project repository can be accessed here - https://github.com/johnjmci/johnjmci-HTMLCSS-Project1 
- 
+The project repository can be accessed here - https://github.com/johnjmci/johnjmci-HTMLCSS-Project1
 ## Credits
-The build of this project has been informed by reference material made available in the Code Institute Diploma in Software Development. 
+The build of this project has been informed by reference material made available in the Code Institute Diploma in Software Development.
+<br>
 Some limited troubleshooting has been assisted with reference to [W3Schools](www.w3schools.com)
- 
 ## Content
 Website copy was written bespoke for the site
+<br>
 The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-
+ 
 ## Media
 All images used were sourced from Unsplash and used in accordance with their standard licence - “Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service.”
- 
 ## Languages Used
 HTML5
+<br>
 CSS3
-
+ 
 ## Frameworks, Libraries & Programs Used
-[Font Awesome](https://fontawesome.com/) - Used to source icons used in site. 
+[Font Awesome](https://fontawesome.com/) - Used to source icons used in site.
+<br>
 [GitHub])https://github.com/ - GitHub is used to store the project code.
-[Canva](https://canva.com/) - Used to create logo and site banner. 
-[Figma](https://figma.com/) - Used to create site layout and wireframes. 
-
+<br>
+[Canva](https://canva.com/) - Used to create logo and site banner.
+<br>
+[Figma](https://figma.com/) - Used to create site layout and wireframes.
