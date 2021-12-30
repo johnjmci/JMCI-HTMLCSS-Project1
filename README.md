@@ -47,6 +47,7 @@ Surface - This has been informed by the work around the brand identity, creating
 Descriptions here highlight value to first-time, returning and frequent visitors to the site. 
 
 Navigation Bar - The navigation bar takes prime position at the top of the site, sitting on the right-hand side. The nav bar has been coded to be fixed, so that it remains in position as the user moves down through the site. It contains links to allow the user to easily jump to different sections of the site with ease, minimising scrolling and effort on the part of the user. 
+<img src="assets/images/Hero_Image_R1.jpeg">
 
 Social Links - The brand's social channels are well established and usually updated daily. The inclusion of linked social buttons at the head of the website seeks to drive traffic to these channels and grow their following. It also allows site users to access the most recent posts and updates from CGBG’s. 
 
