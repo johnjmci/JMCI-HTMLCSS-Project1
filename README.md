@@ -17,9 +17,9 @@ As a brand driven by passion and creativity, it is desirable to showcase the vis
 ## Branding
 As a relatively new company, CGBG’s do not have an established visual identity beyond their logo and preference on imagery style. Therefore principles were defined around colours and typography to allow the site to convey a look and feel that is complementary to the brand, and which can be incorporated into the brands developing brand identity toolkit. 
 
-Fonts - Overpass and Chivo (selected via fontpair) / Arial as fallback 
+Fonts - Overpass and Chivo, selected via [fontpair](www.fontpair.com) / Arial as fallback 
 
-Font colour - #343434 (informed by review of colour performance of options using WAVE web accessibility tool)
+Font colour - #343434, informed by review of colour performance of options using [WAVE](https://wave.webaim.org/) web accessibility tool
 
 Brand colours - 
 Judge Gray  #523F31
@@ -51,7 +51,7 @@ Navigation Bar - The navigation bar takes prime position at the top of the site,
 Social Links - The brand's social channels are well established and usually updated daily. The inclusion of linked social buttons at the head of the website seeks to drive traffic to these channels and grow their following. It also allows site users to access the most recent posts and updates from CGBG’s. 
 
 Hero Image - This image is included to give users an immediate sense of the CGBG’s space. Being quite a large image, it works best on desktop and laptop,it has been replaced by an image with more fitting dimensions for mobile. 
-<img src="a/workspace/johnjmci-HTMLCSS-Project1/assets/images/Hero_Image_Nav_R1.png">
+<img src="/workspace/johnjmci-HTMLCSS-Project1/assets/images/Hero_Image_Nav_R1.png">
 
 Review Quote - This section gives an immediate sense of a third-party take on CGBG’s. We know that customers will be encouraged by positive reviews, and this section allows us to showcase a glowing review. The review quote section can be updated with other quotes and comments as they are published. The section can also be utilised should a special notice need to be published on the site for a temporary period eg.unexpected closure or a request to review amended or temporary opening hours. 
 <img src="/workspace/johnjmci-HTMLCSS-Project1/assets/images/Banner_R8.png##">
@@ -83,10 +83,11 @@ Embed social feeds - Another feature for future consideration is the embedding o
 
 ## Testing
 Code Validation: 
-HTML - No errors were returned when passing through the official W3C validator
-CSS - No errors were found when passing through the official (Jigsaw) validator
+HTML - No errors were returned when passing through the official [W3C validator](https://johnjmci.github.io/johnjmci-HTMLCSS-Project1/)
+<br>
+CSS - No errors were found when passing through the official [W3C Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjohnjmci.github.io%2Fjohnjmci-HTMLCSS-Project1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-Accessibility - Review completed via WAVE Web Accessibility Evaluation Tool https://wave.webaim.org/ 
+Accessibility - Review completed via [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)  
 As a result of this, 33 contrast errors were found and corrected by amending the site’s font colour. Redundant link alert also updated. 
 
 Mobile Optimisation - The site has been optimised to display correctly on desktop, tablet and mobile screen sizes. 
@@ -108,15 +109,16 @@ All bugs discovered have been fixed ahead of deployment.
 ## Deployment
 The site was deployed to GitHub pages and the live link can be accessed here - 
 https://johnjmci.github.io/johnjmci-HTMLCSS-Project1/ 
+<br>
 The project repository can be accessed here - https://github.com/johnjmci/johnjmci-HTMLCSS-Project1 
  
 ## Credits
 The build of this project has been informed by reference material made available in the Code Institute Diploma in Software Development. 
-Some limited troubleshooting has been assisted with reference to W3Schools www.w3schools.com
+Some limited troubleshooting has been assisted with reference to [W3Schools](www.w3schools.com)
  
 ## Content
 Website copy was written bespoke for the site
-The icons in the footer were taken from Font Awesome
+The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ## Media
 All images used were sourced from Unsplash and used in accordance with their standard licence - “Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service.”
@@ -126,8 +128,8 @@ HTML5
 CSS3
 
 ## Frameworks, Libraries & Programs Used
-Font Awesome - Used to source icons used in site. 
-GitHub - GitHub is used to store the project code.
-Canva- Used to create logo and site banner. 
-Figma - Used to create site layout and wireframes. 
+[Font Awesome](https://fontawesome.com/) - Used to source icons used in site. 
+[GitHub])https://github.com/ - GitHub is used to store the project code.
+[Canva](https://canva.com/) - Used to create logo and site banner. 
+[Figma](https://figma.com/) - Used to create site layout and wireframes. 
 
