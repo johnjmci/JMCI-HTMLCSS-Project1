@@ -32,6 +32,10 @@ h2 {
     color: #343434;    
 }
 
+h3 {
+    font-family: Chivo, Arial;
+    color: #343434;    
+}
 
 /* Navigation menu styling */
 
@@ -315,7 +319,11 @@ header img {
 
 @media screen and (max-width: 950px) {
 
-           
+    nav {
+        font-size: 60%;
+        text-align: center;  
+    }   
+
     #hero {
         height: 300px;
         width: 100%;
@@ -328,7 +336,7 @@ header img {
         vertical-align: 10px;
        }
 
-       header img {
+    header img {
         width: 300px;
     }
     #banner {
