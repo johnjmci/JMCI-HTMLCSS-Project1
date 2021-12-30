@@ -47,25 +47,32 @@ Surface - This has been informed by the work around the brand identity, creating
 Descriptions here highlight value to first-time, returning and frequent visitors to the site. 
 
 Navigation Bar - The navigation bar takes prime position at the top of the site, sitting on the right-hand side. The nav bar has been coded to be fixed, so that it remains in position as the user moves down through the site. It contains links to allow the user to easily jump to different sections of the site with ease, minimising scrolling and effort on the part of the user. 
-<img src="assets/images/Hero_Image_R1.jpeg">
 
 Social Links - The brand's social channels are well established and usually updated daily. The inclusion of linked social buttons at the head of the website seeks to drive traffic to these channels and grow their following. It also allows site users to access the most recent posts and updates from CGBG’s. 
 
 Hero Image - This image is included to give users an immediate sense of the CGBG’s space. Being quite a large image, it works best on desktop and laptop,it has been replaced by an image with more fitting dimensions for mobile. 
+<img src="a/workspace/johnjmci-HTMLCSS-Project1/assets/images/Hero_Image_Nav_R1.png">
 
 Review Quote - This section gives an immediate sense of a third-party take on CGBG’s. We know that customers will be encouraged by positive reviews, and this section allows us to showcase a glowing review. The review quote section can be updated with other quotes and comments as they are published. The section can also be utilised should a special notice need to be published on the site for a temporary period eg.unexpected closure or a request to review amended or temporary opening hours. 
+<img src="/workspace/johnjmci-HTMLCSS-Project1/assets/images/Banner_R8.png##">
 
 Opening Hours - This section contains the most fundamental information that a client needs to know about the business, where to find it, when it is open and how to make contact. It is therefore given prominence as the first section. Icons have been used to assist the user in being able to find information at a glance. 
+<img src="/workspace/johnjmci-HTMLCSS-Project1/assets/images/Opening_Hours_R2.png">
 
 Coffee & Food - This section profiles the products which the company offers. A brief introduction to the ethos behind production is accompanied by a striking image or items available in store. 
+<img src="/workspace/johnjmci-HTMLCSS-Project1/assets/images/Food_Drink_R5.png">
 
 Events  - CGBG’s main offering aside from coffee and baked items is as a venue. The owners have established a varied programme of events taking place each week. This section includes information on upcoming events taking place this month and next, with notes on any fees to attend or take part that visitors need to be aware of. 
+<img src="/workspace/johnjmci-HTMLCSS-Project1/assets/images/Events_R3.png">
 
 About Us - The owners of CGBG’s, Charlotte and Ethan, are a key element to the brand identity. This section is used to profile them, their backgrounds and skills, and also to put faces to their names.
+<img src="/workspace/johnjmci-HTMLCSS-Project1/assets/images/AboutUs_R4.png">
 
 Suppliers & Partners - The owners believe that their focus on great produce is only possible due to the work and expertise of the company’s suppliers. They have therefore requested that we include a profile of some of their suppliers. The embedding of videos here means that visitors to the site are not taken off the site to consume content on another platform, they remain within the CGBG’s site and have the option to continue their journey after consuming this media. 
+<img src="/workspace/johnjmci-HTMLCSS-Project1/assets/images/Suppliers_R6.png">
 
 Footer - The footer has been utilised to share information on the ownership of the site. It has also been used to share again and reiterate the key CTA for the business of driving traffic to and building the audience of their social media channels. 
+<img src="/workspace/johnjmci-HTMLCSS-Project1/assets/images/Footer_R7.png">
 
 ## Future Build and Features
 At launch, the site created meets all of the criteria requested by the business owners. There are some features which are to be revisited in the future:
