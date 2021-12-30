@@ -212,6 +212,12 @@ header img {
     padding: 25px;
     box-sizing: border-box;
 }
+
+#suppliers iframe {
+    width: 560px; 
+    height: 315px; 
+}
+
 #footer {
     width: 100%;
     float: left;
@@ -219,6 +225,7 @@ header img {
     box-sizing: border-box;
     text-align: center;
     background-color: #A49C9C;
+    padding-top: 20px;
 
 }
 
