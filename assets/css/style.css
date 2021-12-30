@@ -326,13 +326,16 @@ header img {
         background-size: cover;
         background-position: bottom;
         vertical-align: 10px;
-
        }
 
-    #review-banner {
-        font-size: 70%;
-        padding: 10px;
+       header img {
+        width: 300px;
+    }
+    #banner {
+        padding: 5px;
+        font-size: 75%;
         box-sizing: border-box;
+        height: fit-content;
     }
    
     #opening-text {
