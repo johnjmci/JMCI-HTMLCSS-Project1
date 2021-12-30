@@ -45,7 +45,7 @@ b) For customers - act as a one-stop location to quickly and easily collect info
 <b>5. Surface</b> - This has been informed by the work around the brand identity, creating rules and elements necessary to build a visually appealing site which complements the brand identity.
 <br>
 CGBG’s Figma Mockup
-<img src="/workspace/johnjmci-HTMLCSS-Project1/assets/images/CGBGS_WIREFRAME_FIGMA.jpg">
+<img src="../workspace/johnjmci-HTMLCSS-Project1/assets/images/CGBGS_WIREFRAME_FIGMA.jpg">
 ## Completed Features
  
 Descriptions here highlight value to first-time, returning and frequent visitors to the site.
